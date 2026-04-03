@@ -3,9 +3,9 @@ services:
     ports:
       - 0.0.0.0:3001:3001
 
-  open-webui:
-    ports:
-      - 0.0.0.0:8080:8080
+#  open-webui:
+#    ports:
+#      - 0.0.0.0:8080:8080
 
   n8n:
     ports:
